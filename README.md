@@ -1,2 +1,3 @@
 # hello-world
-Just some cool repository that I will be working on with the help of the GitHub guide!
+
+Hello all. Daniel here. I am working this doc to introduce myself to the process here. I hope this helps me connect with more programmers/coders out there that can help me solve problems! 
